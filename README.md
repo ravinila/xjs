@@ -1,2 +1,2 @@
 # xjs
-Controlling DOM with attributes starts with x-
+Controlling DOM with attributes start with x-
